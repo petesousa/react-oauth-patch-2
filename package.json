@@ -1,6 +1,6 @@
 {
   "name": "@react-oauth/monorepo",
-  "private": true,
+  "private": false,
   "description": "Monorepo for OAuth2 providers in React 🚀",
   "workspaces": [
     "packages/*",
